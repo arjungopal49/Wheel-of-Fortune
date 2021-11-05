@@ -1,0 +1,80 @@
+h1 {
+    color: rebeccapurple;
+    font-family: "Bodoni MT Condensed";
+    font-size: 36px;
+}
+
+button[id="menuButton"] {
+    display: none;
+
+}
+
+button[id="startButton"] {
+    display: block;
+
+}
+button[id="singleButton"] {
+    display: none;
+
+}
+button[id="computerEasyButton"] {
+    display: none;
+
+}
+button[id="computerHardButton"] {
+    display: none;
+
+}button[id="multiButton"] {
+     display: none;
+ }
+
+
+button[id="guessButton"] {
+    display: none;
+
+}
+button[id="multiguessButton"] {
+    display: none;
+
+}
+button[id="computerguessButton"] {
+    display: none;
+
+}
+
+button[id="spinButton"] {
+    display: none;
+
+}
+button[id="multispinButton"] {
+    display: none;
+
+}
+button[id="computerspinButton"] {
+    display: none;
+
+}
+button[id="buyButton"] {
+    display: none;
+
+}
+button[id="multibuyButton"] {
+    display: none;
+
+}
+button[id="computerbuyButton"] {
+    display: none;
+
+}
+p[id="display3"] {
+    color: Indigo;
+    font-weight: bold;
+}
+p[id="display3"] {
+    color: Indigo;
+    font-weight: bold;
+}
+p[id="display4"] {
+    font-size: 20px;
+    font-weight: bold;
+}
